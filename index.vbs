@@ -1,0 +1,1 @@
+set ws=createobject("wscript.shell")
